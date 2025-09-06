@@ -37,15 +37,6 @@ With 8+ years of experience, I specialize in architecting and developing **large
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashant-panwar&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-panwar&theme=tokyonight" alt="GitHub Streak" height="150"/>
-</p>  
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
@@ -56,4 +47,4 @@ With 8+ years of experience, I specialize in architecting and developing **large
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+✨ *“Stay curious. Keep coding. Keep shipping.”*  
