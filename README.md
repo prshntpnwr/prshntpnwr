@@ -8,7 +8,7 @@ With 8 years of experience, I specialize in architecting and developing **large-
 
 ## 🔭 About Me  
 - 💼 Currently **Founding Mobile SDK Engineer** at [Commotion](https://gocommotion.com/)  
-- 📹 Previously built the **InVideo Video Editor App** (1M+ downloads)  
+- 📹 Previously built the **InVideo Video Editor App** (1M+ downloads) at [InVideo](https://invideo.io/)
 - 📺 Founding Android Engineer at [Rheo TV](https://www.linkedin.com/company/rheo-tv/)  
 - 🌱 Passionate about **Jetpack Compose, KMM, SDK Design, and Performance Engineering**  
 - ✍️ I write blogs on **Android performance, animations, and architecture** → [Medium](https://medium.com/@prashant.panwar777)  
