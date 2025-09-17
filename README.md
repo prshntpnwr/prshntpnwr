@@ -28,10 +28,11 @@ With 8 years of experience, I specialize in architecting and developing **large-
 
 ---
 
-## ✍️ Recent Blog Posts  
+## ✍️ Recent Blog Posts
 - 🛠️ [Optimize Gradle build performance](https://medium.com/@prashant.panwar777/optimize-gradle-build-performance-a767bba13d45)  
 - ⚡ [Elevating Mobile Experiences: Optimal App Performance](https://medium.com/@prashant.panwar777/optimising-android-app-performance-best-practices-and-strategies-878d7b7719c6)  
-- 🎨 [Morphing Blobs with Jetpack Compose](https://medium.com/@prashant.panwar777/morphing-blobs-with-jetpack-compose-from-circle-to-organic-waves-901759190d3b)  
+- 🎨 [Morphing Blobs with Jetpack Compose](https://medium.com/@prashant.panwar777/morphing-blobs-with-jetpack-compose-from-circle-to-organic-waves-901759190d3b)
+_ 🔥 [SDK Alchemy: Crafting Android Libraries That Don’t Burn Down Apps](https://medium.com/@prashant.panwar777/sdk-alchemy-crafting-android-libraries-that-dont-burn-down-apps-ea0f7ca8bd07)  
 
 👉 See all posts on [Medium](https://medium.com/@prashant.panwar777)  
 
