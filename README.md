@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prashant Panwar  
 
-🚀 **Senior Android Engineer | SDK Enthusiast | KMM | Compose **
+🚀 **Senior Android Engineer | SDK Enthusiast | KMM | Compose**
 
 With 8 years of experience, I specialize in architecting and developing **large-scale mobile applications** and SDKs that power millions of users worldwide. I enjoy solving challenging engineering problems, building performant apps, and sharing my learnings through writing and open source.
 
