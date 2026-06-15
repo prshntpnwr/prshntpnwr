@@ -4,6 +4,12 @@
 
 With 8 years of experience, I specialize in architecting and developing **large-scale mobile applications** and SDKs that power millions of users worldwide. I enjoy solving challenging engineering problems, building performant apps, and sharing my learnings through writing and open source.
 
+<p align="center">
+  <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56241618?key=4dc4e6d39b0065214ed4ba4c348ce91191ccec65ec3fd7bb63e2f2955514e81b" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56241618?key=4dc4e6d39b0065214ed4ba4c348ce91191ccec65ec3fd7bb63e2f2955514e81b" alt="Coursera Badge" width="200" />
+  </a>
+</p>
+
 ---
 
 ## 🔭 About Me  
